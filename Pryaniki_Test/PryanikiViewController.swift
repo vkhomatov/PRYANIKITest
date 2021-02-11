@@ -82,7 +82,7 @@ class PryanikiViewController: UIViewController {
         self.scrollView = UIScrollView(frame: self.view.bounds)
         self.scrollView.showsVerticalScrollIndicator = false
         self.scrollView.showsHorizontalScrollIndicator = false
-        scrollView.contentSize = CGSize(width: 0, height: 700)
+        scrollView.contentSize = CGSize(width: view.frame.size.width, height: 700)
 
     }
     
