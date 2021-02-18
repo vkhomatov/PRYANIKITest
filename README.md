@@ -5,5 +5,4 @@
 
 Ссылка на JSON-файл: https://pryaniky.com/static/json/sample.json (data - данные, view - что и в каком порядке выводить)
 Используемый язык: Swift
-Предпочтительный паттерн при реализации приложения: MVVM
 Навык использования Pods (Moya, Alamofire, Kingfisher и т.п.) будет плюсом.
